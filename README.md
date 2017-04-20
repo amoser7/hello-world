@@ -1,5 +1,4 @@
-# Hello,
-## World!
+# :ghost: Hello, World :ghost:
 
 [My CIS Website on uoregon.edu](http://pages.uoregon.edu/amoser/111/)
 
